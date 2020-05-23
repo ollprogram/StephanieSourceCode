@@ -1,4 +1,4 @@
-# Alfred Source Code
+# Stephanie Source Code
 code source pour le bot StephanieBot
 
 Attention:
